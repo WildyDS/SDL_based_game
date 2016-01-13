@@ -1,0 +1,232 @@
+TI_wanna_SDL_C
+v6
+r1
+cCheck dependencies
+cSymLink /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+cCompileC DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C normal x86_64
+cGenerateDSYMFile /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+cStrip /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+cSetOwnerAndGroup Wildy:staff /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+cSetMode u+w,go-w,a+rX /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+cTouch /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052871A2100000000000000AA
+t1384585761
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526A4BB8000000000000044C
+t1382697912
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526A4BB800000000000001DB
+t1382697912
+s475
+
+N/Library/Frameworks/SDL2.framework/SDL2
+c0000000052689D5100000000001839E0
+t1382587729
+s1587680
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C
+t2
+s0
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM
+t1397478974
+s102
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+t1397478974
+s14748
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/I_wanna_SDL_C.LinkFileList
+c00000000534BD63E00000000000000D9
+t1397478974
+s217
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o
+t1397478974
+s30464
+
+N/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c
+c00000000534BD6390000000000002D3C
+t1397478969
+s11580
+
+CBuild AST from /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies38bdabbe0dfcb841^a299afbe0dfcb841^---0#1#1#--18"Check dependencies36"9C867B43-DB64-4A00-86B2-250BE1660601-
+
+CCompileC DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s419171774.694082
+e419171774.894982
+r1
+xCompileC
+xDerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c
+d/Library/Frameworks/SDL2.framework/Headers/SDL.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_main.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_stdinc.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_config.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_platform.h
+d/Library/Frameworks/SDL2.framework/Headers/begin_code.h
+d/Library/Frameworks/SDL2.framework/Headers/close_code.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_config_macosx.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_assert.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_atomic.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_audio.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_error.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_endian.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_mutex.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_thread.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_rwops.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_clipboard.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_cpuinfo.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_events.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_video.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_pixels.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_rect.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_surface.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_blendmode.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_keyboard.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_keycode.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_scancode.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_mouse.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_joystick.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_gamecontroller.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_quit.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_gesture.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_touch.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_filesystem.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_haptic.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_hints.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_loadso.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_log.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_messagebox.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_power.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_render.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_system.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_timer.h
+d/Library/Frameworks/SDL2.framework/Headers/SDL_version.h
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/heroes_n_blocks.h
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/maps.h
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/physics.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c254"CompileC DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o I_wanna_SDL_C/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilercdcbb1be0dfcb841^921fe5be0dfcb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Wildy/Documents/Xcode%20projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c0000000000000000^3859"CompileC DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o I_wanna_SDL_C/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/I_wanna_SDL_C-generated-files.hmap -I/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/I_wanna_SDL_C-own-target-headers.hmap -I/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/I_wanna_SDL_C-all-target-headers.hmap -iquote /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/I_wanna_SDL_C-project-headers.hmap -I/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/DerivedSources/x86_64 -I/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/DerivedSources -F/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release -F/Library/Frameworks -MMD -MT dependencies -MF /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.dia -c /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/I_wanna_SDL_C/main.c -o /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o36"EE3CF09D-E7E4-4DE1-AC6B-E30DB51E4589-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CGenerateDSYMFile /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+s419171774.915446
+e419171774.946087
+r1
+xGenerateDSYMFile
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Generate /Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM245"GenerateDSYMFile DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C7367eabe0dfcb841^8b33f2be0dfcb841^---0#0#1#-19%DVTDocumentLocation2@166"file:///Users/Wildy/Documents/Xcode%20projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM003424bedfffdf42^745"GenerateDSYMFile DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C -o /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM36"E81382BB-F512-4BCB-AD34-D5FF2BB5EA06-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CLd /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C normal x86_64
+s419171774.895732
+e419171774.914588
+r1
+xLd
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+xnormal
+xx86_64
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/I_wanna_SDL_C.LinkFileList
+d/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/main.o
+d/Library/Frameworks/SDL2.framework/SDL2
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection179"Link /Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C139"Ld DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C normal x86_642060e5be0dfcb841^f722eabe0dfcb841^---0#0#1#--1516"Ld DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C normal x86_64    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release -F/Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release -F/Library/Frameworks -filelist /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/I_wanna_SDL_C.LinkFileList -mmacosx-version-min=10.9 -framework SDL2 -Xlinker -dependency_info -Xlinker /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/IntermediateBuildFilesPath/I_wanna_SDL_C.build/Release/I_wanna_SDL_C.build/Objects-normal/x86_64/I_wanna_SDL_C_dependency_info.dat -o /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C36"0F6545FE-C9A9-469D-9E7B-C175259756D2-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CSetMode u+w,go-w,a+rX /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+s419171774.965381
+e419171774.971156
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"SetMode u+w,go-w,a+rX DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C144"SetMode u+w,go-w,a+rX DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_Cbe2ef7be0dfcb841^779ef8be0dfcb841^---0#0#1#-19%DVTDocumentLocation2@183"file:///Users/Wildy/Documents/Xcode%20projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C0000000000000000^415"SetMode u+w,go-w,a+rX DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /bin/chmod -RH u+w,go-w,a+rX /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C36"4592CE8D-6F4A-4425-A8ED-98B0A088037F-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CSetOwnerAndGroup Wildy:staff /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+s419171774.957977
+e419171774.965070
+r1
+xSetOwnerAndGroup
+xWildy:staff
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"SetOwnerAndGroup Wildy:staff DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C151"SetOwnerAndGroup Wildy:staff DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C624df5be0dfcb841^490ff7be0dfcb841^---0#0#1#-19%DVTDocumentLocation2@183"file:///Users/Wildy/Documents/Xcode%20projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C0000000000000000^425"SetOwnerAndGroup Wildy:staff DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /usr/sbin/chown -RH Wildy:staff /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C36"1540D96E-BDB0-431C-B1A9-D54E70BE11CF-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CStrip /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+s419171774.946475
+e419171774.957612
+r1
+xStrip
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Strip DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C128"Strip DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C6956f2be0dfcb841^f627f5be0dfcb841^---0#0#1#-19%DVTDocumentLocation2@183"file:///Users/Wildy/Documents/Xcode%20projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C0000000000000000^463"Strip DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C36"43929027-AA50-4B53-903B-AD1D6E8DD798-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CSymLink /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+s419171774.686459
+e419171774.693268
+r1
+xSymLink
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Process /Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C231"SymLink DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C58c9afbe0dfcb841^f580b1be0dfcb841^---0#0#1#--639"SymLink DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /bin/ln -sf /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/InstallationBuildProductsLocation/usr/local/bin/I_wanna_SDL_C /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C36"9ACE8199-43EC-449E-9C7C-58DBD50E5FEA-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
+CTouch /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM
+s419171774.971621
+e419171774.978519
+r1
+xTouch
+x/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Touch /Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM111"Touch DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM7ac8f8be0dfcb841^f180fabe0dfcb841^---0#0#1#--354"Touch DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM    cd "/Users/Wildy/Documents/Xcode projects/I_wanna_SDL_C"    /usr/bin/touch -c /Users/Wildy/Documents/Xcode\ projects/I_wanna_SDL_C/DerivedData/I_wanna_SDL_C/ArchiveIntermediates/I_wanna_SDL_C/BuildProductsPath/Release/I_wanna_SDL_C.dSYM36"3C2B4C48-74DB-4923-9BDF-E677B591A74F-
+b5777211B-389D-4E86-9718-E44EF9F4F8EB
+
